@@ -1,0 +1,6 @@
+{
+  "name": "مفتاح — Smart Offline Life System",
+  "description": "نظام إدارة حياة ذكي ومتكامل يعمل بالكامل دون إنترنت كبرنامج سطح مكتب شخصي: مهام، مصاريف، خزنة مشفرة، وصول سريع للملفات، أهداف، إحصائيات تفاعلية، وضع المزاج، وزر تفريغ التوتر 'أنا مخنوق'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
